@@ -14,7 +14,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 
-#define DEFAULT_PORT	55555
+#define DEFAULT_PORT	50000
 
 int exit_error(const char *msg)
 {
